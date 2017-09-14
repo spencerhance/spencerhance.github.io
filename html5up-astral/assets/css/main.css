@@ -1423,7 +1423,7 @@ a:active {
 					position: absolute;
 					left: 0;
 					top: 0;
-					width: 100%;
+					width: 50%;
 					height: 100%;
 					margin-left: 2.5em;
 				}
@@ -1439,7 +1439,7 @@ a:active {
 						position: absolute;
 						left: 0;
 						top: 52.5%;
-						font-size: 1.5em;
+						font-size: 1.2em;
 						letter-spacing: -0.015em;
 						margin-top: 0;
 					}
