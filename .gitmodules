@@ -1,0 +1,3 @@
+[submodule "assets/files/resume"]
+	path = assets/files/resume
+	url = https://github.com/spencerhance/resume
